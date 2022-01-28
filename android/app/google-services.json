@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "690198963493",
+    "project_id": "cs310-project-4fede",
+    "storage_bucket": "cs310-project-4fede.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690198963493:android:6690e856d090dc33a526cc",
+        "android_client_info": {
+          "package_name": "edu.sabanciuniv.cs310project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690198963493-me2sarj5g2u16bnlb2jf4ve5gqlae1ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpoAAuAvrpOXgHPFnsLnYbVBwYtI4id5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690198963493-me2sarj5g2u16bnlb2jf4ve5gqlae1ij.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "690198963493-l98l6ck8cq3tfdbrgf50o2jad915i3eh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "edu.sabanciuniv.cs310project"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
